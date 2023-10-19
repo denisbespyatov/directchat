@@ -3,7 +3,7 @@
     "description": "Yii2 direct chat",
     "type": "yii2-extension",
     "keywords": ["yii2","extension", "message", "chat", "conversation"],
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "Denis Bespyatov",
@@ -14,7 +14,7 @@
         "yiisoft/yii2": "~2.0.0"
     },
     "require-dev":{
-      "yiisoft/yii2-bootstrap": "~2.0.0",
+      "yiisoft/yii2-bootstrap": "~2.0.0"
     },
     "autoload": {
         "psr-4": {
