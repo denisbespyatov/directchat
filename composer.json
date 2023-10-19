@@ -1,0 +1,24 @@
+{
+    "name": "denisbespyatov/directchat",
+    "description": "Yii2 direct chat",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension", "message", "chat", "conversation"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Denis Bespyatov",
+            "email": "denis@bespyatov.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "require-dev":{
+      "yiisoft/yii2-bootstrap": "~2.0.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "denisbespyatov\\directchat\\": ""
+        }
+    }
+}
